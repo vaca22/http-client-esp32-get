@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "bleprph.h": "c",
+        "optional": "c",
+        "type_traits": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "cstddef": "c",
+        "mcpwm.h": "c",
+        "esp_system.h": "c"
+    }
+}
